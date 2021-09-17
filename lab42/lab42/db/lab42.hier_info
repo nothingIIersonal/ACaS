@@ -1,0 +1,16 @@
+|lab42
+a => na.IN0
+a => r1.IN0
+b => nb.IN0
+b => r3.IN0
+b => r5.IN0
+clock => dff0.CLK
+clock => dff1.CLK
+clock => dff2.CLK
+clock => dff3.CLK
+q0 <= dff0.DB_MAX_OUTPUT_PORT_TYPE
+q1 <= dff1.DB_MAX_OUTPUT_PORT_TYPE
+q2 <= dff2.DB_MAX_OUTPUT_PORT_TYPE
+q3 <= dff3.DB_MAX_OUTPUT_PORT_TYPE
+
+

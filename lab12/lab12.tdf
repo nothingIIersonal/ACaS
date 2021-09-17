@@ -1,0 +1,8 @@
+SUBDESIGN 'lab12'
+(
+A, B, C, D : INPUT;
+Y : OUTPUT;
+)
+BEGIN
+Y = ( (A # D) & (B & C) ) # ( !(A # D) & !(B & C) );
+END;

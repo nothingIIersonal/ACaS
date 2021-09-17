@@ -1,0 +1,10 @@
+vendor_name = ModelSim
+source_file = 1, M:/2010/IVBO0220/MagomedovRuslan/lab11.bdf
+source_file = 1, M:/2010/IVBO0220/MagomedovRuslan/db/lab11.cbx.xml
+design_name = lab11
+instance = comp, \Y~output\, Y~output, lab11, 1
+instance = comp, \C~input\, C~input, lab11, 1
+instance = comp, \B~input\, B~input, lab11, 1
+instance = comp, \D~input\, D~input, lab11, 1
+instance = comp, \A~input\, A~input, lab11, 1
+instance = comp, \inst6~0\, inst6~0, lab11, 1

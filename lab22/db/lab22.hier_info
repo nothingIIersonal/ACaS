@@ -1,0 +1,36 @@
+|lab22
+D0 => _.IN1
+D1 => _.IN1
+D2 => _.IN1
+D3 => _.IN1
+D4 => _.IN1
+D5 => _.IN1
+D6 => _.IN1
+D7 => _.IN1
+A0 => _.IN0
+A0 => _.IN0
+A0 => _.IN0
+A0 => _.IN0
+A0 => _.IN0
+A0 => _.IN0
+A0 => _.IN0
+A0 => _.IN0
+A1 => _.IN0
+A1 => _.IN0
+A1 => _.IN1
+A1 => _.IN1
+A1 => _.IN0
+A1 => _.IN0
+A1 => _.IN1
+A1 => _.IN1
+A2 => _.IN0
+A2 => _.IN1
+A2 => _.IN0
+A2 => _.IN1
+A2 => _.IN0
+A2 => _.IN1
+A2 => _.IN0
+A2 => _.IN1
+F <= F.DB_MAX_OUTPUT_PORT_TYPE
+
+

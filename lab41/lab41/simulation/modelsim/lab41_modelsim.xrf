@@ -1,0 +1,6 @@
+vendor_name = ModelSim
+source_file = 1, C:/Custom/Other/study/mirea/ACaS/labs/lab41/lab41/lab41.bdf
+source_file = 1, C:/Custom/Other/study/mirea/ACaS/labs/lab41/lab41/db/lab41.cbx.xml
+design_name = lab41
+instance = comp, \pin_name1~I\, pin_name1, lab41, 1
+instance = comp, \pin_name2~I\, pin_name2, lab41, 1

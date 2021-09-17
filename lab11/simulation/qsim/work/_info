@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dM:\2010\IVBO0220\MagomedovRuslan\simulation\qsim
+vlab11
+Z1 !s100 n_JFO9eWEHKPOzLVL?>:A2
+Z2 I=P5[dbzJk9]GhB5:?PPOS0
+Z3 VK5lFU5`f]egO@2P8f<7Y41
+Z4 dC:\Custom\Other\study\mirea\ACaS\labs\lab11\simulation\qsim
+Z5 w1631198356
+Z6 8lab11.vo
+Z7 Flab11.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|lab11.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1631198357.360000
+Z12 !s107 lab11.vo|
+!s101 -O0
+vlab11_vlg_check_tst
+!i10b 1
+Z13 !s100 M=0JT@@?C><E29gH`SF5d2
+Z14 IiOfeh[1:@RceoiYP=>LSO1
+Z15 V;Iio[o0f[>3mVYP2gafcQ2
+R4
+Z16 w1631198355
+Z17 8lab11.vwf.vt
+Z18 Flab11.vwf.vt
+L0 63
+R8
+r1
+!s85 0
+31
+Z19 !s108 1631198357.434000
+Z20 !s107 lab11.vwf.vt|
+Z21 !s90 -work|work|lab11.vwf.vt|
+!s101 -O0
+R10
+vlab11_vlg_sample_tst
+!i10b 1
+Z22 !s100 0z]oQG;;`M46IgZ<Vi`1U0
+Z23 IaCKm`l8^>AZ><NmYV]mQR3
+Z24 VPO9PUlJFE[gcb;nfMa2d72
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vlab11_vlg_vec_tst
+!i10b 1
+Z25 !s100 oQJ59]KB@Ka51@ffiLmL>1
+Z26 IlaP:6h@50LLn?kHbKh5>A1
+Z27 VNH2FfN@JzjhPGlS^3ficl3
+R4
+R16
+R17
+R18
+Z28 L0 158
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
